@@ -8,6 +8,7 @@ public class SpringCloudAliBabaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringCloudAliBabaApplication.class, args);
+        System.out.println();
     }
 
 }
